@@ -1,0 +1,117 @@
+/* Dizzycloud */
+body {
+color : #0b728f;
+background-color : #000;
+width : 500px;
+margin : auto;
+}
+a:link, a:visited {
+color : #0692b9;
+text-decoration : none;
+}
+a:hover, a:focus {
+color : #03bcf0;
+}
+.header {
+color : #000;
+line-height : 30px;
+background-color : #004b60;
+background-image : url(images/header.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+text-align : center;
+height : 34px;
+}
+.top_menu {
+width : 100%;	
+background-image : url(images/top_menu.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 7px;
+}
+.top_menufoot {
+background-image : url(images/top_menufoot.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 7px;
+}
+.mid_menu {
+background-image : url(images/mid_menu.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 10px;
+}
+.mid_menufoot {
+background-image : url(images/mid_menufoot.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 9px;
+}
+.foot_menu {
+background-image : url(images/foot_menu.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 8px;
+}
+.foot_menufoot {
+background-image : url(images/foot_menufoot.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 10px;
+}
+.botline {
+background-image : url(images/botline.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 7px;
+}
+.footer {
+color : #000;
+background-color : #004b60;
+background-image : url(images/footer.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+text-align : center;
+height : 22px;
+}
+.ref {
+background-image : url(images/ref.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 24px;
+}
+.hr {
+background-image : url(images/hr.gif);
+background-size:100% auto;
+background-repeat : no-repeat;
+height : 5px;
+}
+.contents {
+background-image : url(images/contents.gif);
+background-size:100% auto;
+padding-right : 12px;
+padding-left : 12px;
+}
+hr {
+margin-top : 3px;
+margin-bottom : 3px;
+border-bottom : 1px solid #363636;
+border-left : 1px solid #363636;
+border-top-color : #363636;
+border-top-width : 1px;
+border-right-color : #363636;
+border-right-width : 1px;
+}
+span.b {
+font-weight : bold;
+}
+span.c {
+color : #03bcf0;
+}
+span.u {
+text-decoration : underline;
+}
+span.k {
+font-style : italic;
+}
+/*** Theme by Dizzycloud  ***/
