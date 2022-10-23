@@ -1,4 +1,4 @@
-.dizzyloginwrap{width:100%;height:100%;position:fixed;left:0;top:0;z-index:9999999999;background:linear-gradient(-45deg,#23a6d5,#23d5ab,#f09800,#e6af19);background-size:400% 400%;animation:gradient 10s ease infinite}
+.loginwrap{width:100%;height:100%;position:fixed;left:0;top:0;z-index:9999999999;background:linear-gradient(-45deg,#23a6d5,#23d5ab,#f09800,#e6af19);background-size:400% 400%;animation:gradient 10s ease infinite}
 @keyframes gradient{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
 .dizzyloginwrap.hidden{display: none}
 #dizzylogin{position:absolute;border-radius:8px;width:400px;padding:30px;display:block;transform:translate(-50%,-50%);top:50%;left:50%;background:rgba(255,255,255,0.1);backdrop-filter:blur(5px);border-radius:10px;box-shadow:0 25px 45px rgba(0,0,0,0.2);color:#fff}
